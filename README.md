@@ -18,6 +18,6 @@
   [Pheonix 2 GUI]([https://github.com/Markusgard](https://github.com/UIS-Aerospace/phoenixgui))
 ---
 
-# Stats
+<!---# Stats
 
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markusgard&layout=compact&theme=github_dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markusgard&layout=compact&theme=github_dark)
