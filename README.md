@@ -20,4 +20,4 @@
 
 # Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markusgard&layout=compact&theme=github_dark)
