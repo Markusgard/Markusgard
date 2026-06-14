@@ -4,7 +4,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white)
 ![C#](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
